@@ -14,3 +14,13 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# code
+*.java
+*.class
+
+# vscode
+.vscode
+
+# others
+大纲.md
