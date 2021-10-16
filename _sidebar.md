@@ -15,7 +15,7 @@
 - [匿名类](Notes/JavaSE/11.匿名类)
 - [单例模式](Notes/JavaSE/12.单例模式.md)
 - [条件判断](Notes/JavaSE/13.条件判断.md)
-- [循环]
+- [循环](Notes/JavaSE/14.循环.md)
 - [String](Notes/JavaSE/15.String.md)
 - [Scanner](Notes/JavaSE/16.Scanner.md)
 - [Object](Notes/JavaSE/17.Object.md)
@@ -29,7 +29,7 @@
     - [LinkedList](Notes/JavaSE/21.集合/02.实现类/02.LinkedList.md)
     - [Vector](Notes/JavaSE/21.集合/02.实现类/03.Vector.md)
 - [位运算](Notes/JavaSE/22.位运算.md)
-- [算数运算符](Notes/JavaSE/23.算数运算符.md)
+- [算数运算符](Notes/JavaSE/23.运算符.md)
 
 
 ## 杂记
