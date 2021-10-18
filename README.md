@@ -1,6 +1,6 @@
 # JAVA
 
-Java[ [oracle](https://www.oracle.com/cn/java/) | [wiki](https://zh.wikipedia.org/wiki/Java) ]是纯面向对象语言，其提供了大量API### 供开发者使用，很大程度上降低了开发者工作量。
+Java[ [oracle](https://www.oracle.com/cn/java/) | [wiki](https://zh.wikipedia.org/wiki/Java) ]是纯面向对象语言，其提供了大量API供开发者使用，很大程度上降低了开发者工作量。
 
 ## 分类
 
