@@ -20,5 +20,10 @@ _book
 *.class
 
 # vscode
-.vscode
+.vscode/
+
+# idea
+.idea/
+
+
 
