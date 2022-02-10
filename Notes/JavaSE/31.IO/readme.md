@@ -15,4 +15,13 @@
     字节流是指 8 位的通用字节流，以字节为基本单位，在 java.io包中，对于字节流进行操作的类大部分继承于 InputStream（输入字节流）类和 OutputStream（输出字节流）类  
     字符流是指 16 位的 Unicode 字符流，以字符（两个字节）为基本单位，非常适合处理字符串和文本，对于字符流进行操作的类大部分继承于 Reader（读取流）类和 Writer（写入流）类
 
-![](../../../img/io流结构.km.svg)
+## Java I/0层次
+
+- 流式部分: IO的主体部分;
+- 非流式部分:主要包含一些辅助流式部分的类，如: File类、RandomAccessFile类和FileDescriptor类等;
+- 其他类:文件读取部分的与安全相关的类，如: SerializablePermission类，以及与本地操作系统相关的文件系统的类，如: FileSystem类和Win32FileSystem类和WinNTFileSystem类。
+
+## 体系结构
+
+![](../../../img/IO体系结构.svg)
+

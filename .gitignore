@@ -20,5 +20,6 @@ _book
 # idea
 .idea/
 
-
+# others
+t.*
 
