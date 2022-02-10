@@ -21,5 +21,6 @@ _book
 .idea/
 
 # others
+code/
 t.*
 
