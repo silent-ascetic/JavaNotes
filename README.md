@@ -1,6 +1,6 @@
 # JAVA
 
-Java[ [oracle](https://www.oracle.com/cn/java/) | [wiki](https://zh.wikipedia.org/wiki/Java) ]是纯面向对象语言，其提供了大量API供开发者使用，很大程度上降低了开发者工作量。
+Java[ [oracle](https://www.oracle.com/cn/java/) | [wiki](https://zh.wikipedia.org/wiki/Java) ]是纯面向对象语言，其提供了大量API供开发者使用，很大程度上降低了开发者工作量。Java之父是[James Gosling](https://baike.baidu.com/item/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%AB%98%E6%96%AF%E6%9E%97) 。
 
 ## 分类
 
