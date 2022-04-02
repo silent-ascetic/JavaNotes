@@ -1,14 +1,14 @@
 # Set
 
 > ```java
-> public interface Set<E> extends Collection<E>
+> public interface Set<E> extends Collection<E>{}
 > ```
 
 一个不包含重复元素的collection。更确切地讲，set 不包含满足e1.equals(e2)的元素对e1 和e2，并且最多包含一个null 元素。
 
 ## 方法
 
-```java
+```text
 boolean add(E e)
 // 如果set 中尚未存在指定的元素，则添加此元素（可选操作）。
 boolean addAll(Collection<? extends E> c)
