@@ -24,4 +24,5 @@ _book
 code/
 t.*
 test.*
+*.jar
 
