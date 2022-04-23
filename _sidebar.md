@@ -1,4 +1,4 @@
-- [Notes](Notes/readme.md)
+- [介绍](README.md)
     - [JavaEE](Notes/JavaEE/readme.md)
         - [01.Web入门](Notes/JavaEE/01.Web入门.md)
         - [02.Servlet](Notes/JavaEE/02.Servlet/readme.md)
