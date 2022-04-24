@@ -13,14 +13,17 @@ Spring Cloud为开发人员提供了在分布式系统中快速构建一些常�
 * 分布式/版本化配置
 * 服务注册和发现
 * 路由
-* 服务到服务呼叫
-* 负载平衡
-* 断路 器
+* 服务调用
+* 负载均衡
+* 断路器
 * 全局锁
 * 领导层选举和集群状态
 * 分布式消息传递
 
 **Spring Cloud整合的框架（主要）：**
+
+![](../../img/Spring%20Cloud%20组件迭代.png)
+ps：红叉表示新版不建议使用
 
 Spring Cloud Config
 Centralized external configuration management backed by a git repository. The configuration resources map directly to Spring but could be used by non-Spring applications if desired.  
@@ -114,3 +117,4 @@ Spring Cloud Pipelines提供了一个固执己见的部署管道，其中包含�
 Spring Cloud Function
 Spring Cloud Function promotes the implementation of business logic via functions. It supports a uniform programming model across serverless providers, as well as the ability to run standalone (locally or in a PaaS).  
 Spring Cloud Function通过函数促进业务逻辑的实现。它支持跨无服务器提供程序的统一编程模型，以及独立运行（本地或 PaaS）的能力。
+
